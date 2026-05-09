@@ -51,9 +51,8 @@ The dataset contains information about Spotify tracks including:
 
 ```
 Spotify-SQL-Analysis/
-├── spotify_analysis.sql    ← All queries (EDA + Analytics)
-├── dataset/
-│   └── cleaned_dataset.csv ← Raw dataset
+├── analysis.sql    ← All queries (EDA + Analytics)
+├── cleaned_dataset.csv   
 └── README.md
 ```
 
