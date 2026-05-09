@@ -134,16 +134,4 @@ Before diving into analytics, the following EDA was performed:
 - **CASE WHEN** inside **HAVING** clause is used to compare streaming performance across platforms (Spotify vs YouTube)
 - CTE is used to calculate energy range per album efficiently
 
----
 
-## 👤 Author
-
-**Your Name**
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
